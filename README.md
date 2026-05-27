@@ -66,8 +66,8 @@ Linear Algebra · Matrices · Vector Spaces · Computational Geometry
 | Project | Description |
 |---------|-------------|
 | [**Custom Game Engine**](https://github.com/Pot-bite/GameOnVulkan) | Vulkan/C++ game framework with low-level rendering, GPU memory management, and engine architecture |
-| [**Graveyard's Story**](https://thriis.itch.io/graveyard-story) | 2D narrative platformer in Unity with Cinemachine, modular Animator controllers, custom collision & event systems |
-| [**Dual Strike: Flag & Frag**](https://thriis.itch.io/shooter) | 2-player PvP shooter with Unity Netcode, client-server model, RPC combat, and object pooling |
+| [**Graveyard's Story**](https://thriiis.itch.io/graveyards-story) | 2D narrative platformer in Unity with Cinemachine, modular Animator controllers, custom collision & event systems |
+| [**Dual Strike: Flag & Frag**](https://thriiis.itch.io/shooter) | 2-player PvP shooter with Unity Netcode, client-server model, RPC combat, and object pooling |
 
 ---
 
@@ -77,12 +77,6 @@ Linear Algebra · Matrices · Vector Spaces · Computational Geometry
 - 💼 **LinkedIn:** [linkedin.com/in/ilya-vysotski](https://linkedin.com/in/ilya-vysotski)  
 - 🎮 **Itch.io:** [thriis.itch.io](https://thriis.itch.io)  
 - 🌍 **Location:** Minsk, Belarus
-
----
-
-### 📊 GitHub Stats
-
-![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaVysotski&show_icons=true&theme=dark)
 
 ---
 

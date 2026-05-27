@@ -2,7 +2,7 @@
 
 **Gameplay & Engine Programmer** | C++ · C# · Unity · Unreal Engine 5 · Godot
 
-📍 Minsk, Belarus | 📧 vysoila73@gmail.com | [LinkedIn](https://www.linkedin.com/in/ilya-vysotski-030b26316) | [GitHub](https://github.com/IlyaVysotski)
+📍 Minsk, Belarus | 📧 vysoila73@gmail.com | [LinkedIn](https://www.linkedin.com/in/ilya-vysotski-030b26316) | [GitHub](https://github.com/Pot-bite/)
 
 ---
 

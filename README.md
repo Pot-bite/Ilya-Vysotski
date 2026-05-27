@@ -75,7 +75,7 @@ Linear Algebra · Matrices · Vector Spaces · Computational Geometry
 
 - 💌 **Email:** vysoila73@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/ilya-vysotski](https://linkedin.com/in/ilya-vysotski)  
-- 🎮 **Itch.io:** [thriis.itch.io](https://thriis.itch.io)  
+- 🎮 **Itch.io:** [thriis.itch.io](https://thriiis.itch.io/)  
 - 🌍 **Location:** Minsk, Belarus
 
 ---

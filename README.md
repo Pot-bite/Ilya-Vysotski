@@ -22,7 +22,7 @@ I'm a gameplay and engine programmer passionate about building core systems for 
 C++ · C#  
 
 **Engines & Frameworks:**  
-Unity (2D/3D) · Unreal Engine 5 · Godot · SFML · OpenGL · Vulkan
+Unity (2D/3D) · Unreal Engine 5 · Godot · SFML · OpenGL 
 
 **Networking:**  
 Unity Netcode for GameObjects · Client-Server Architecture · RPC · Latency Compensation
